@@ -1,4 +1,4 @@
-<img width="696" height="314" alt="image" src="https://github.com/user-attachments/assets/5927f53d-2563-4f58-ba10-28f43e2a920f" /># TinyLlama Fine-Tuning on Marine Biology Domain with LoRA
+# TinyLlama Fine-Tuning on Marine Biology Domain with LoRA
 
 This project demonstrates how to adapt the TinyLlama-1.1B-Chat model to a specialized domain (marine biology) using Parameter-Efficient Fine-Tuning (PEFT) with LoRA and 4-bit quantization. It showcases the effectiveness of instruction-style fine-tuning in low-resource environments and highlights the capability of pretrained LLMs to generalize and specialize simultaneously.
 
